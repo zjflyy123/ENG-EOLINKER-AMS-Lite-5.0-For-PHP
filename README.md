@@ -1,3 +1,6 @@
+#安装
+release 解压安装
+
 # EOLINKER AMS Lite For PHP
 
 ![](https://data.eolinker.com/course/dUiGnus943534e04bfd59e3de7d87e0143dc66ca83835e4.png)
